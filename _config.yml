@@ -1,0 +1,30 @@
+title:            Charles
+description:      A jekyll theme.
+url:              # Site url, without a slash at the end.
+signoff:          # Your name.
+links:
+  - name:         Home
+    url:          /
+
+  - name:         CV
+    url:          /cv
+
+  - name:         Papers
+    url:          /papers
+  
+  - name:	  Teaching
+    url:          /teaching
+  
+  - name: 	  My GitHub
+    url:	  http://github.com/foxflo
+    external:	  true
+  
+  - name:         Extras
+    url:          /extras
+
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
