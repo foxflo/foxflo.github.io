@@ -22,7 +22,7 @@ links:
   - name:         Extras
     url:          /extras
 
-highlighter:      pygments
+highlighter:      rouge
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
